@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
           USERNAME: SatriaAkbarRizki
       - name: Commit & Push
         run: |
