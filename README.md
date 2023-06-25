@@ -1,31 +1,16 @@
 ### Hi there Welcome to My Repository👋
 this My collection repository for Share project and back up files😅
-<!--
-**SatriaAkbarRizki/SatriaAkbarRizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SatriaAkbarRizki&show_icons=true&count_private=true&hide_border=true" align="left" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAkbarRizki&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-<br/>  
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="dart" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="dart" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="dart" width="45" height="45"/>
+</p>
