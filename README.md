@@ -1,20 +1,22 @@
 ### Hi Everyone Welcome to My Repository👋
-this My collection repository for Share project and back up files😅
+<div align = "center"">
+ <img hight="300" width="700" alt="GIF" src="https://github.com/SatriaAkbarRizki/SatriaAkbarRizki/blob/master/assets/rem.gif">
+</div>
 
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="dart" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="dart" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="dart" width="45" height="45"/>
 <br>
 
-<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="dart" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="dart" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="dart" width="45" height="45"/>
- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="dart" width="45" height="45"/>
- <br>
+## About Me🤠
+My Name is Satria AKbar RIzki, Now i'am student at University Samudra on Indonesia
+<br>
+I'am a Mobile Developer (Flutter) Junior, and now l always leraning about flutter and language other
+<br>
+
+<h2> 🚀 &nbsp;Some Tools I Have used and Language used</h2>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,dart,flutter,firebase,sqlite,git&theme=dark alt="dart">
+<br>
+<img src="https://skillicons.dev/icons?i=java,kotlin,figma,supabase,postman t&theme=dark alt="dart">
 </p>
+
+
+
