@@ -17,5 +17,6 @@ My Name is Satria AKbar RIzki, I'am student at University Samudra on Indonesia I
 <h2> Language and Databases </h2>
 <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,flutter,sqlite,firebase,supabase&theme=dark alt="dart">
 
+<img src="https://raw.githubusercontent.com/SatriaAkbarRizki/SatriaAkbarRizki/output/snake.svg" alt="Snake animation" />
 
 
