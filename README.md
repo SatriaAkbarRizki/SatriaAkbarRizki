@@ -1,6 +1,6 @@
 ### Hi Everyone, I'am Satria👋
 <div align = "center"">
- <img hight="300" width="700" alt="GIF" src="https://github.com/SatriaAkbarRizki/SatriaAkbarRizki/blob/master/assets/rem.gif">
+ <img hight="300" width="700" alt="GIF" src="https://github.com/SatriaAkbarRizki/SatriaAkbarRizki/blob/master/assets/remlove.gif">
 </div>
 
 <br>
