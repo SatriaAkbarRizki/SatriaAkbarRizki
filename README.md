@@ -12,11 +12,9 @@ My Name is Satria AKbar RIzki, I'am student at University Samudra on Indonesia I
 <h2> 🚀 &nbsp;Some tools I used and language I used</h2>
 
 <h2> Tools </h2>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,vim,idea,git,figma,postman,linux&theme=dark alt="dart">
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,vim,idea,git,figma,postman,linux">
 
 <h2> Language and Databases </h2>
-<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,flutter,sqlite,firebase,supabase&theme=dark alt="dart">
+<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,flutter,sqlite,firebase,supabase">
 
 <img src="https://raw.githubusercontent.com/SatriaAkbarRizki/SatriaAkbarRizki/output/snake.svg" alt="Snake animation" />
-
-
